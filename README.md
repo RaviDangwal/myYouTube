@@ -32,4 +32,4 @@ Users can participate in live chat-like discussions, where comments are loaded u
 
 ## Deployment
 
-The application is deployed on Firebase. You can access the live demo - [my-413812.web.app](https://my-413812.web.app/)https://my-413812.web.app/]
+The application is deployed on Firebase. You can access the live demo - [my-413812.web.app](https://my-413812.web.app/)https://my-413812.web.app/
